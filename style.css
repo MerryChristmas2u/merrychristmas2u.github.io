@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+body {
+  background-color: #F24236;
+  width: 100%;
+  font-family: 'Cookie', cursive;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+#days {
+  font-size: 50px;
+  color: #FFF;
+  text-align: center;
+  letter-spacing: 3px;
+}
